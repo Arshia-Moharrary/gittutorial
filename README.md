@@ -82,6 +82,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [mdabagh](https://github.com/mdabagh)
 - [MohammadReza Safdari](https://github.com/mrsfdri)
 - [Saeed Barari](https://github.com/Saeedb021)
+- [Arshia Moharrary 🕷](https://github.com/Arshia-Moharrary)
 - [Mohammadhossein Asadi 🎯](https://github.com/mohammadhossein-asadi)
 - [Mousa Pashaee](https://github.com/mousa-1983)
 - [mohammad mojaver](https://github.com/mohammadDeveloperr)
